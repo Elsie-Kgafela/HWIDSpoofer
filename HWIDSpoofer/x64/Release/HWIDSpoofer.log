@@ -1,0 +1,6 @@
+  Building 'HWIDSpoofer' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\HWIDSpoofer.inf
+  Stamping [Version] section with DriverVer=09/24/2023,11.43.48.979
+  Main.cpp
+  HWIDSpoofer.vcxproj -> E:\workspace\games\apex\HWIDSpoofer\x64\Release\HWIDSpoofer.sys
+  Driver is 'Universal'.
