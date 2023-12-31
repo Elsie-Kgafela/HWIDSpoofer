@@ -6,5 +6,3 @@ just update to win10 22h2 pattern
 
 # reference 
 https://github.com/SamuelTulach/mutante.git
-
-
